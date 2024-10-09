@@ -1,4 +1,7 @@
+
 # Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License
+
+© 2024 Guilhem Joly. All rights reserved.
 
 ## You are free to
 
