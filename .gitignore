@@ -1,0 +1,23 @@
+.env
+
+node_modules/
+
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+honeypot.log*
+
+dist/
+build/
+
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Typescript
+*.tsbuildinfo
